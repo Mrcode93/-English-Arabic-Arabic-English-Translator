@@ -46,7 +46,7 @@ seachBtn.addEventListener("click", () => {
             }
             copyText.style.cssText = "display:block";
 
-            result.innerHTML += "-  " + words;
+            result.innerHTML = "-  " + words;
         })
         .catch((err) => console.error(err));
 });
