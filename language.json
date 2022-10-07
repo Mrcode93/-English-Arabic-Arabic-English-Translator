@@ -1,0 +1,46 @@
+{
+    "ar": [{
+
+        "about": "من أنا ؟",
+        "landing": [{
+            "h1": "مرحبا !",
+            "p": "اني مبرمج ويب اسمي عامر (Mr.Code) من العراق ، لدي القدرة على برمجة الموقع بصورة احترافية و تصميم حسب الطلب ومتجاوبة مع جميع الاجهزة…"
+
+        }],
+        "nav": ["الرئيسية", "أعمالي", "الخدمات", "المهارات", "إتصل بي"],
+        "projects": "أعمالي",
+        "services": "الخدمات",
+        "information": {
+            "0": ["سرعة", "أوقات التحميل السريعة والتفاعل الخالي من التأخير، أولويتي القصوى."],
+            "1": ["متجاوب", "سيعمل الموقع على أي جهاز، كبير أو صغير."],
+            "2": ["واضح", "تفضيل قوي سهل الاستخدام وبديهي."],
+            "3": ["ديناميكية", "لا يجب أن تكون مواقع الويب ثابتة، فأنا أحب جعل الصفحات تنبض بالحياة."]
+        },
+        "skills": "المهارات",
+        "contact": ["إتصل بي", "إذا كان لديك أي أسئلة، يرجى الاتصال بي. سأكون سعيدا للإجابة على أسئلتك."]
+
+
+
+    }],
+    "en": [{
+        "about": "About me",
+        "landing": [{
+            "h1": "Hello !",
+            "p": "I am a web developer my name is Amer (Mr.Code) based in Iraq. I have a passion for creating beautiful and functional websites."
+
+        }],
+        "nav": ["Main", "Projects", "Services", "Skills", "Contact me"],
+        "projects": "Projects",
+        "services": "Services",
+        "information": {
+            "0": ["Fast”,”Fast load times and lag free interaction, my highest priority."],
+            "1": ["Responsive", "My layouts will work on any device, big or small."],
+            "2": ["Intuitive", "Strong preference for easy to use, intuitive UX/UI."],
+            "3": ["Dynamic", "Websites don't have to be static, I love making pages come to life."]
+        },
+        "skills": "Skills",
+        "contact": ["Contact", "If you have any questions, please contact me. I will be happy to answer your questions."]
+
+
+    }]
+}

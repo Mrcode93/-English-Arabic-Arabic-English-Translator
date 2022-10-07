@@ -1,0 +1,22 @@
+{
+    "short_name": "Translator",
+    "name": "Translator",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Translator",
+    "theme_color": "transparent",
+    "icons": [{
+            "src": "./MyProject.png",
+            "type": "png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "./images/MyProject.png",
+            "type": "image/png",
+            "sizes": "193x193"
+        }
+    ]
+
+
+}

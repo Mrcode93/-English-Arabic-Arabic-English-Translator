@@ -17,7 +17,6 @@ selectBtn.addEventListener("change", () => {
         to = "en";
         input.style.cssText = "direction:rtl";
     }
-    console.log(from, to);
 });
 
 seachBtn.addEventListener("click", () => {
