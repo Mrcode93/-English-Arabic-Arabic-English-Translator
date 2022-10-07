@@ -1,7 +1,7 @@
 {
     "short_name": "Translator",
     "name": "Translator",
-    "start_url": ".",
+    "start_url": "https://mrcode-translator.netlify.app/",
     "display": "standalone",
     "background_color": "#fff",
     "description": "Translator",
